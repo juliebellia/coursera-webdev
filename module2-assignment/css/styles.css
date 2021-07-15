@@ -21,10 +21,22 @@ h2 {
 	margin: 0px 0px 0px 0px;
 	border: 1px solid black;
 	width: 130px;
-	background-color: #AC3B61;
 	text-align: center;
 	float: right;
 	color: #EEE2DC;
+}
+
+.sec1 {
+  background-color: #AC3B61;
+}
+
+.sec2 {
+  background-color: #123C69;
+}
+
+.sec3 {
+  background-color: #BAB2B5;
+  color: black;
 }
 
 .section {
